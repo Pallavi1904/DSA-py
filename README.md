@@ -25,7 +25,7 @@ Each topic is organized into folders with:
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.x  
-- **IDE:** VS Code / Jupyter Notebook  
+- **IDE:** VS Code 
 
 ## 🤝 Contribution
 
@@ -33,10 +33,6 @@ Feel free to fork the repo and contribute:
 - Add new problems
 - Optimize existing solutions
 - Improve documentation
-
-## 📄 License
-
-This repository is open-source and available under the [MIT License](LICENSE).
 
 ---
 
