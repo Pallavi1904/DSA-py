@@ -1,6 +1,6 @@
 # 🐍 Data Structures and Algorithms in Python
 
-Welcome to my repository on **Data Structures and Algorithms (DSA)** implemented in **Python**!  
+Welcome to my repository on **Data Structures and Algorithms (DSA)** implemented in **Python**! 
 This collection is created to improve problem-solving skills and prepare for coding interviews and competitive programming.
 
 ## 📌 Topics Covered
