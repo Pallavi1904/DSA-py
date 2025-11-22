@@ -5,7 +5,7 @@ This collection is created to improve problem-solving skills and prepare for cod
 
 ## 📌 Topics Covered
 
-- 🔢 Arrays and Strings  
+- 🔢 Arrays and Strings   
 - 🔁 Recursion and Backtracking  
 - 🧮 Searching and Sorting  
 - 🌳 Trees and Binary Trees  
